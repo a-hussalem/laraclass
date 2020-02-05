@@ -1,1 +1,2 @@
 # laraclass
+Laravel classes
